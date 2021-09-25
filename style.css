@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background: linear-gradient(to left, blue , green);
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+.Name_of_Objects {
+    color: springgreen;
+    font-size: 18px;
+}
+
+#imgBorder {
+    border: 20px;
+    border-style: dashed;
+    border-image: url(https://www.pngitem.com/pimgs/m/61-612615_transparent-square-borders-png-.png) 50 round;
+    width: 350px;
+height: 300px;
+}
+
+#Result_Object_Name, #Result_Object_Accuracy {
+    color: yellow;
+}
